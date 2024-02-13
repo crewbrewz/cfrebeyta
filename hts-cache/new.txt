@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:38:19	20920/20920	---MCZ	200	added ('OK')	text/html	etag:%224a24146bdeae0516ab34b0ee6cc77b73-ssl-df%22	https://sye.bio/	C:/My%20Web%20Sites/syebio/sye.bio/index.html	(from )
+21:38:20	1450/1450	---MCZ	404	error ('Not%20Found')	text/html	etag:1697718392-ssl-df	https://sye.bio/robots.txt		(from )
+21:38:20	5788/5788	---MCZ	200	added ('OK')	text/css	etag:%226adf5838084cc71d0f3804b146643a2a-ssl-df%22	https://sye.bio/index.css	C:/My%20Web%20Sites/syebio/sye.bio/index.css	(from https://sye.bio/)
+21:38:22	1746/1746	---M--	200	added ('OK')	image/png	date:Fri,%2009%20Feb%202024%2002:19:28%20GMT	https://i.ibb.co/jfD0r9W/logo.png	C:/My%20Web%20Sites/syebio/i.ibb.co/jfD0r9W/logo.png	(from https://sye.bio/)
+21:38:22	90180/90180	---M--	200	added ('OK')	image/jpeg	etag:%221ab7a66ce86bdfae619fe576e12141da%22	https://i.pinimg.com/originals/9b/54/cc/9b54cc14f3c09e96ab2212273de83c63.jpg	C:/My%20Web%20Sites/syebio/i.pinimg.com/originals/9b/54/cc/9b54cc14f3c09e96ab2212273de83c63.jpg	(from https://sye.bio/)
+21:38:22	7454/7454	---M--	200	added ('OK')	image/jpeg	etag:%225ee2f15f3c31995e50541e6399737d68%22	https://i.pinimg.com/236x/30/51/8e/30518e83b891db3e5a15cb02885c5686.jpg	C:/My%20Web%20Sites/syebio/i.pinimg.com/236x/30/51/8e/30518e83b891db3e5a15cb02885c5686.jpg	(from https://sye.bio/)
